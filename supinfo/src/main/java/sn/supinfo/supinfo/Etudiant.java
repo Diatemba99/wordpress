@@ -2,11 +2,11 @@ package sn.supinfo.supinfo;
 
 public class Etudiant {
 
-	public String nom;
-	public String prenom;
-	public String telephone;
-	public String adresse;
-	public String dateNaissance;
+	private String nom;
+	private String prenom;
+	private String telephone;
+	private String adresse;
+	private String dateNaissance;
 	
 	
 
